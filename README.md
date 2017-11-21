@@ -1,5 +1,3 @@
-# Vagrant setup for StackRoute Online Students
-
-> git clone https://github.com/stackroute/stackroute-vagrantbox.git
+# Vagrant setup With Node 7 and Mongo 3.
 
 > vagrant up
